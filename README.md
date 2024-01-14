@@ -1,4 +1,6 @@
-# LAPS (link - https://comp1800-dtc15-project.firebaseapp.com/)
+# LAPS 
+https://comp1800-dtc15-project.firebaseapp.com/
+Note - Intended for mobile devices
 
 ## 1. Project Description
 State your app in a nutshell, or one-sentence pitch. Give some elaboration on what the core features are.  
