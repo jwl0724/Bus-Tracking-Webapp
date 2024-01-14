@@ -7,7 +7,7 @@ This browser based web application to ...
 ## 2. Names of Contributors
 List team members and/or short bio's here... 
 * Ealin Ran and I like dogs
-* Jonathan Liu, I am horrid at CS and CSS, and I have no idea what I am doing
+* Jonathan Liu and I like video games
 	
 ## 3. Technologies and Resources Used
 List technologies (with version numbers), API's, icons, fonts, images, media or data sources, and other resources that were used.
