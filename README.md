@@ -56,20 +56,68 @@ Content of the project folder:
 ```
  Top level of project folder: 
 ├── .gitignore               # Git ignore file
+├── 404.html
+├── eachRoute.html
+├── editProfile.html
+├── favourites.html
+├── firebase.json
+├── firestore.indexes.json
+├── history.html
 ├── index.html               # landing HTML file, this is what users see when you come to url
-└── README.md
+├── location.html
+├── login.html
+├── main.html
+├── map.html
+├── profile.html
+├── README.md
+├── review.html
+└── thanks.html
 
 It has the following subfolders and files:
 ├── .git                     # Folder for git repo
 ├── images                   # Folder for images
-    /blah.jpg                # Acknowledge source
+    /9901.png                # Acknowledge source
+    /blankprofile.webp
+    /logo.png
 ├── scripts                  # Folder for scripts
-    /blah.js                 # 
+    /authentication.js       
+    /databaseUsers.js
+    /eachRoute.js
+    /editProfile.js
+    /favourites.js
+    /history.js
+    /main.js
+    /map.js
+    /profile.js
+    /profilePicture.js
+    /review.js
+    /script.js
+    /searchbox.js
+    /skeleton.js
 ├── styles                   # Folder for styles
-    /blah.css                # 
-
-
-
+    /editProfile.css         
+    /favourites.css
+    /footer.css
+    /history.css
+    /index.css
+    /location.css
+    /login.css
+    /main.css
+    /map.css
+    /profile.css
+    /reviews.css
+    /route.css
+    /searchbox.css
+    /style.css
+    /thanks.css
+├── templates
+    /firebaseAPI_template.js
+    /template.html
+    /translinkAPI_template.js
+├── text
+    /footer.html
+├── writeToDB
+    /Translink.js
 ```
 
 
