@@ -1,0 +1,33 @@
+#reviewCardGroup {
+    margin-top: 100px;
+    padding-bottom: 50px;
+}
+
+.star-rating {
+    color: rgb(241, 210, 39);
+}
+
+ .card {
+     border-radius: 20px;
+ }
+
+ .route {
+    font-size: 30px;
+ }
+
+h1 {
+    font-size: 32px;
+    margin: 8px 8px;
+    font-family: "Poppins", sans-serif;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+.card-body {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+}
+
+

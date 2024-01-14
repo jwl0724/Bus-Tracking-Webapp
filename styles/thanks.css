@@ -1,0 +1,11 @@
+body {
+    background-color: #274e92;
+    align-items: center;
+    display: flex;
+    height: 80vh;
+    font-family: "Roboto", sans-serif;
+}
+
+.container-fluid {
+    width: 80%;
+}

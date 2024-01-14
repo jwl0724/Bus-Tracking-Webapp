@@ -1,0 +1,50 @@
+body, .greeting {
+    background-color: #274e92;
+}
+
+.card-image {
+    height: 305px;
+    border-radius: 25px;
+}
+
+.card {
+    margin-bottom: 80px;
+    border-radius: 25px;
+    box-shadow: 2px 3px 5px;
+}
+
+h1, h2  {
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+}
+
+h1.display-4{
+    font-size: 36px;
+    padding-bottom: 5px;
+}
+
+.nearby-route {
+    font-family: "Poppins", sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+p, h5, btn {
+    font-family: "Roboto", sans-serif;
+}
+
+.material-icons {
+    position: absolute;
+    bottom: 15px;
+    right: 17px;
+    margin: 10px;
+    font-size: 38px;
+    cursor: pointer;
+    color:mediumvioletred;
+}
+
+h5.card-title {
+    /* color: forestgreen; */
+    font-weight: bold;
+    font-size: 23px;
+}

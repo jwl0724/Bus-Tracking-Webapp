@@ -1,0 +1,24 @@
+form {
+    padding-bottom: 80px;
+}
+
+.btn {
+    font-size: 20px;
+}
+
+body {
+    background-color: #274e92
+}
+
+.material-icons {
+    font-size: 30px;
+    color: rgb(241, 210, 39);
+}
+
+h1 {
+    font-family: "Poppins", sans-serif;
+}
+
+.form-group {
+    font-family: "Roboto", sans-serif;
+}

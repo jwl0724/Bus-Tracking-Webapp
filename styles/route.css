@@ -1,0 +1,41 @@
+#routeName,
+h2 {
+    font-family: "Poppins", sans-serif;
+}
+
+.card-body {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+}
+
+.card {
+    border-radius: 20px;
+}
+
+.star-rating {
+    color: rgb(241, 210, 39);
+}
+
+.heart-icon {
+    font-size: 38px;
+    cursor: pointer;
+    color: mediumvioletred;
+    /* display: flex;
+    justify-content: flex-end; */
+}
+
+.box {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #fff;
+    border: 2px solid gray;
+    border-top: none;
+    height: 3rem;
+    margin-right: 10px;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}

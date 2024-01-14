@@ -1,0 +1,45 @@
+
+body {
+background-color: #274e92;
+
+}
+.card-title,
+.card-body {
+    font-family: "Roboto", sans-serif;
+}
+
+h1 {
+    font-size: 28px;
+    margin: 8px 8px;
+    font-family: "Poppins", sans-serif;
+}
+
+.card {
+    margin-bottom: 80px;
+    border-radius: 25px;
+    box-shadow: 2px 3px 5px;
+}
+
+.card-image {
+    height: 260px;
+    border-radius: 25px;
+}
+
+#routeCardGroup {
+    margin-top: 10px;
+}
+
+.material-icons {
+    position: absolute;
+    bottom: 15px;
+    right: 17px;
+    margin: 10px;
+    font-size: 38px;
+    cursor: pointer;
+    color: mediumvioletred;
+}
+
+.card-title {
+    font-weight: bold;
+    font-size: 23px;
+}
