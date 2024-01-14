@@ -1,5 +1,6 @@
 # LAPS 
 https://comp1800-dtc15-project.firebaseapp.com/
+
 Note - Intended for mobile devices
 
 ## 1. Project Description
